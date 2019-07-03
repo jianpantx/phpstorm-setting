@@ -1,0 +1,551 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="F:/develop/code/test/orm/User.php" timestamp="1561869604352">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Console/Commands/Elasticsearch/Migrate.php" timestamp="1553356279302">
+        <mark key="[" line="20" column="52" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Jobs/RefundCrowdfundingOrders.php" timestamp="1552588482847">
+        <mark key="[" line="28" column="9" />
+      </file>
+      <file name="/a.dummy" timestamp="1559227762312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/blog/app/Admin/Controllers/HomeController.php" timestamp="1560179018493">
+        <mark key="[" line="13" column="5" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/migrations/2019_03_17_221017_create_installment_items_table.php" timestamp="1552832047597">
+        <mark key="[" line="27" column="43" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/vendor/phalcon/ide-stubs/src/Phalcon/di/InjectionAwareInterface.php" timestamp="1562131903409" />
+      <file name="F:/develop/code/shop/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1557034663874">
+        <mark key="[" line="27" column="34" />
+      </file>
+      <file name="/shop.users [MySQL - shop@localhost]" timestamp="1557158748085">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/blog/composer.json" timestamp="1558677776523">
+        <mark key="[" line="46" column="9" />
+      </file>
+      <file name="F:/develop/code/test/Factory/FileLogger.php" timestamp="1561892717366">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/.env.example" timestamp="1553268263426">
+        <mark key="[" line="38" column="46" />
+      </file>
+      <file name="F:/develop/code/blog/public/index.php" timestamp="1559210736627">
+        <mark key="[" line="57" column="18" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/factories/ProductFactory.php" timestamp="1552840389410">
+        <mark key="[" line="21" column="39" />
+      </file>
+      <file name="F:/develop/code/blog/database/seeds/DatabaseSeeder.php" timestamp="1558184703412">
+        <mark key="[" line="13" column="48" />
+      </file>
+      <file name="F:/develop/code/test/composer.json" timestamp="1561900535951">
+        <mark key="[" line="16" column="5" />
+      </file>
+      <file name="F:/develop/code/test/simpleFactory.php" timestamp="1556365990681">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/App/HttpController/redis.php" timestamp="1557758184625">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/api.yike.io/.env" timestamp="1558340488523">
+        <mark key="[" line="24" column="18" />
+      </file>
+      <file name="/shop.password_resets [MySQL - shop@localhost]" timestamp="1557035881757">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/test/vendor/phpunit/phpunit/tests/bootstrap.php" timestamp="1561896279360">
+        <mark key="[" line="16" column="49" />
+      </file>
+      <file name="F:/develop/code/blog/database/migrations/2019_05_18_152659_create_tags_table.php" timestamp="1558164475257">
+        <mark key="[" line="16" column="32" />
+      </file>
+      <file name="F:/develop/code/test/Factory/StdoutLogger.php" timestamp="1561892517652">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Jobs/RefundInstallmentOrder.php" timestamp="1552838938728">
+        <mark key="[" line="16" column="70" />
+      </file>
+      <file name="F:/develop/code/test/redis2.php" timestamp="1559227755899">
+        <mark key="[" line="5" column="49" />
+      </file>
+      <file name="F:/develop/code/test/singleton.php" timestamp="1555660222269">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/util/helper.php" timestamp="1561877941941">
+        <mark key="[" line="484" column="21" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/migrations/2019_03_18_001105_create_product_properties_table.php" timestamp="1552980808901">
+        <mark key="[" line="17" column="49" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/resources/views/products/index.blade.php" timestamp="1553331930904">
+        <mark key="[" line="75" column="12" />
+      </file>
+      <file name="/user_addresses [MySQL - shop@localhost]" timestamp="1557369845312">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/yike.io/src/main.js" timestamp="1560241658104">
+        <mark key="[" line="19" column="1" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/config/app.php" timestamp="1552833236711">
+        <mark key="[" line="229" column="36" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/easyswoole" timestamp="1557570277436">
+        <mark key="[" line="16" column="14" />
+      </file>
+      <file name="F:/develop/code/blog/app/Providers/AppServiceProvider.php" timestamp="1555556329774">
+        <mark key="[" line="15" column="10" />
+      </file>
+      <file name="F:/develop/code/shop/app/Http/Controllers/Auth/VerificationController.php" timestamp="1557034658584">
+        <mark key="[" line="27" column="34" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/apps/backend/controllers/LoanReceiptController.php" timestamp="1561734147593">
+        <mark key="[" line="38" column="8" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/migrations/2019_03_17_220943_create_installments_table.php" timestamp="1552831975282">
+        <mark key="[" line="26" column="36" />
+      </file>
+      <file name="F:/develop/code/blog/app/Admin/bootstrap.php" timestamp="1558537223389">
+        <mark key="[" line="20" column="45" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/apps/models/repositories/Repositories.php" timestamp="1562068135929" />
+      <file name="/a.sql" timestamp="1557332853511">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Console/Commands/Elasticsearch/SyncProducts.php" timestamp="1553356190551">
+        <mark key="[" line="40" column="10" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/migrations/2019_03_25_164020_create_seckill_products_table.php" timestamp="1554127761856">
+        <mark key="[" line="15" column="40" />
+      </file>
+      <file name="/shop.product_skus [MySQL - shop@localhost]" timestamp="1557331853944">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/bootstrap/helpers.php" timestamp="1552832783507">
+        <mark key="[" line="15" column="1" />
+      </file>
+      <file name="/shop.admin_users [MySQL - shop@localhost]" timestamp="1557332072326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/shop.user_addresses [MySQL - shop@localhost]" timestamp="1557331849489">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/test/Factory/LoggerFactory.php" timestamp="1561893247245">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1555927747960">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/shop/app/Providers/AppServiceProvider.php" timestamp="1556987763318">
+        <mark key="[" line="16" column="41" />
+      </file>
+      <file name="F:/develop/code/shop/resources/js/bootstrap.js" timestamp="1557302028077">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/shop/app/Http/Controllers/Auth/LoginController.php" timestamp="1557034647168">
+        <mark key="[" line="27" column="34" />
+      </file>
+      <file name="/users [MySQL - shop@localhost]" timestamp="1557155291646">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/shop/database/factories/UserAddressFactory.php" timestamp="1557212390554">
+        <mark key="[" line="19" column="10" />
+      </file>
+      <file name="F:/develop/code/api.yike.io/app/Services/EsEngine.php" timestamp="1558098269628">
+        <mark key="[" line="85" column="24" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/apps/backend/controllers/LoginController.php" timestamp="1561131992558">
+        <mark key="[" line="26" column="99" />
+      </file>
+      <file name="F:/develop/code/test/orm/UserMapper.php" timestamp="1561870769717">
+        <mark key="[" line="17" column="49" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/App/Service/Writer/ProjectArticle.php" timestamp="1559403692618">
+        <mark key="[" line="98" column="83" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Providers/AuthServiceProvider.php" timestamp="1552837081769">
+        <mark key="[" line="22" column="49" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/config/router.php" timestamp="1561131341890">
+        <mark key="[" line="1" column="10" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/.gitignore" timestamp="1552981094404">
+        <mark key="[" line="19" column="21" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/EndDoc-FrontEnd/src/router.js" timestamp="1557907512786">
+        <mark key="[" line="26" column="30" />
+      </file>
+      <file name="F:/develop/code/phpunit/test/FactoryMethodTest.php" timestamp="1561900467778">
+        <mark key="[" line="3" column="24" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/EndDoc-FrontEnd/src/pages/login/store/ActionCreator.js" timestamp="1557907641850">
+        <mark key="[" line="15" column="31" />
+      </file>
+      <file name="F:/develop/code/api.yike.io/app/Thread.php" timestamp="1560266352280">
+        <mark key="[" line="34" column="41" />
+      </file>
+      <file name="F:/develop/code/shop/app/Http/Controllers/PageController.php" timestamp="1556987819631">
+        <mark key="[" line="10" column="25" />
+      </file>
+      <file name="F:/develop/code/test/orm/orm.php" timestamp="1561870700750">
+        <mark key="[" line="80" column="15" />
+        <mark key="]" line="80" column="15" />
+        <mark key="." line="80" column="15" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Http/Controllers/PaymentController.php" timestamp="1552833274840">
+        <mark key="[" line="153" column="5" />
+      </file>
+      <file name="F:/develop/code/blog/database/migrations/2019_05_18_153457_create_categories_table.php" timestamp="1558192244920">
+        <mark key="[" line="20" column="33" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/database/migrations/2019_03_15_000050_orders_add_type.php" timestamp="1552579360871">
+        <mark key="[" line="17" column="13" />
+      </file>
+      <file name="F:/develop/code/test/Tests/FactoryMethodTest.php" timestamp="1562055152433">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="17" column="59" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="59" />
+      </file>
+      <file name="/shop.migrations [MySQL - shop@localhost]" timestamp="1557035878375">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/swoole/client.php" timestamp="1561649555339">
+        <mark key="[" line="13" column="58" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/resources/views/layouts/_header.blade.php" timestamp="1552834052895">
+        <mark key="[" line="44" column="80" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Models/ProductProperty.php" timestamp="1552839125806">
+        <mark key="[" line="8" column="6" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Models/Installment.php" timestamp="1552838815845">
+        <mark key="[" line="67" column="5" />
+      </file>
+      <file name="F:/develop/code/shop/app/Http/Controllers/Auth/RegisterController.php" timestamp="1557034653417">
+        <mark key="[" line="30" column="34" />
+      </file>
+      <file name="/shop.products [MySQL - shop@localhost]" timestamp="1557332440151">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/shop/resources/js/app.js" timestamp="1557302003949">
+        <mark key="[" line="11" column="51" />
+      </file>
+      <file name="F:/develop/code/test/AbstractFactory/product.php" timestamp="1562059737206">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/shop/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1557034691232">
+        <mark key="[" line="20" column="33" />
+      </file>
+      <file name="F:/develop/code/phpunit/composer.json" timestamp="1561900232102">
+        <mark key="[" line="3" column="5" />
+      </file>
+      <file name="F:/develop/code/test/Factory/StdoutLoggerFactory.php" timestamp="1561893383417">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" timestamp="1561207777091">
+        <mark key="[" line="3" column="8" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/vendor/phalcon/ide-stubs/src/Phalcon/di/Injectable.php" timestamp="1562068230579" />
+      <file name="F:/develop/code/test/reg.php" timestamp="1561879592210">
+        <mark key="[" line="18" column="17" />
+      </file>
+      <file name="F:/develop/code/test/yeild.php" timestamp="1556605100557">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/App/Service/User/Login.php" timestamp="1557905926045">
+        <mark key="[" line="57" column="32" />
+      </file>
+      <file name="F:/develop/code/shop/.gitignore" timestamp="1557033808743">
+        <mark key="[" line="16" column="6" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Console/Commands/Cron/CalculateInstallmentFine.php" timestamp="1552838400058">
+        <mark key="[" line="42" column="10" />
+      </file>
+      <file name="F:/develop/code/blog/vendor/laravel-admin-ext/helpers/src/Helpers.php" timestamp="1558155292830">
+        <mark key="[" line="24" column="5" />
+      </file>
+      <file name="F:/develop/code/test/Factory/FileLoggerFactory.php" timestamp="1562055119998">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="/PHP Console" timestamp="1558197578305">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/phpStudy/PHPTutorial/WWW/system/merchant/controllers/SiteController.php" timestamp="1560704739185">
+        <mark key="[" line="70" column="11" />
+      </file>
+      <file name="/JavaScript Console" timestamp="1556623727902">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/test/redis.php" timestamp="1559210711844">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/shop/database/migrations/2019_05_08_150039_create_products_table.php" timestamp="1557329565503">
+        <mark key="[" line="16" column="40" />
+      </file>
+      <file name="F:/develop/code/shop/app/Providers/AuthServiceProvider.php" timestamp="1557303319335">
+        <mark key="[" line="27" column="10" />
+      </file>
+      <file name="/dummy.sql" timestamp="1557332855486">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/test/AbstractFactory/shoppableProduct.php" timestamp="1562061873909">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/EndDoc-BackEnd/App/Service/Team/ProjectMember.php" timestamp="1559400357297">
+        <mark key="[" line="135" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1561900119664">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/blog/app/Models/Articel.php" timestamp="1558159955087">
+        <mark key="[" line="8" column="6" />
+      </file>
+      <file name="F:/develop/code/api.yike.io/app/Http/Controllers/ThreadController.php" timestamp="1560265100126">
+        <mark key="[" line="24" column="5" />
+      </file>
+      <file name="F:/develop/code/blog/package.json" timestamp="1558672175876">
+        <mark key="[" line="4" column="33" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Http/Middleware/VerifyCsrfToken.php" timestamp="1552835064317">
+        <mark key="[" line="23" column="39" />
+      </file>
+      <file name="F:/develop/code/phalcon-test/app/controllers/IndexController.php" timestamp="1560941996228">
+        <mark key="[" line="7" column="0" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/config/redis.php" timestamp="1561089433741">
+        <mark key="[" line="8" column="21" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/vendor/barryvdh/laravel-ide-helper/config/ide-helper.php" timestamp="1552980582604">
+        <mark key="[" line="27" column="29" />
+      </file>
+      <file name="F:/develop/code/yike.io/src/modules/auth/vuex/actions.js" timestamp="1560246714213">
+        <mark key="[" line="23" column="29" />
+      </file>
+      <file name="F:/develop/code/test/Factory/Logger.php" timestamp="1561893184597">
+        <mark key="[" line="0" column="5" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Jobs/SyncOneProductToES.php" timestamp="1553273489218">
+        <mark key="[" line="13" column="70" />
+      </file>
+      <file name="F:/develop/code/test/orm/StorageAdapter.php" timestamp="1561870721719">
+        <mark key="[" line="9" column="18" />
+      </file>
+      <file name="F:/develop/code/blog/database/migrations/2019_05_18_152308_create_article_tags_table.php" timestamp="1558164235167">
+        <mark key="[" line="16" column="40" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/config/database.php" timestamp="1553268227100">
+        <mark key="[" line="128" column="6" />
+      </file>
+      <file name="F:/develop/code/phalcon-test/app/config/router.php" timestamp="1560956360475">
+        <mark key="[" line="2" column="23" />
+      </file>
+      <file name="F:/develop/code/shop/resources/views/layouts/_footer.blade.php" timestamp="1556965487567">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="F:/develop/code/shop/app/Models/User.php" timestamp="1557156732315">
+        <mark key="[" line="38" column="6" />
+      </file>
+      <file name="F:/develop/code/shop/routes/web.php" timestamp="1558753043212">
+        <mark key="[" line="27" column="0" />
+      </file>
+      <file name="F:/develop/code/laravel-shop-old/app/Models/InstallmentItem.php" timestamp="1552832804651">
+        <mark key="[" line="9" column="5" />
+      </file>
+      <file name="F:/develop/code/shop/webpack.mix.js" timestamp="1556986284624">
+        <mark key="[" line="14" column="49" />
+      </file>
+      <file name="F:/develop/homestead7.2.1/code/xjd_back/apps/backend/controllers/GroupUserController.php" timestamp="1562068252851" />
+    </filemarks>
+    <jumps>
+      <jump line="124" column="29" filename="F:/develop/code/laravel-shop-old/app/Services/OrderService.php" />
+      <jump line="129" column="0" filename="F:/develop/code/laravel-shop-old/app/Services/OrderService.php" />
+      <jump line="179" column="8" filename="F:/develop/code/laravel-shop-old/app/Services/OrderService.php" />
+      <jump line="0" column="0" filename="F:/develop/code/laravel-shop-old/public/test.php" />
+      <jump line="6" column="0" filename="F:/develop/code/laravel-shop-old/public/test.php" />
+      <jump line="4" column="5" filename="F:/develop/code/laravel-shop-old/public/test.php" />
+      <jump line="14" column="0" filename="F:/develop/code/laravel-shop-old/public/test.php" />
+      <jump line="133" column="67" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="152" column="0" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="68" column="39" filename="F:/develop/code/laravel-shop-old/resources/views/installments/show.blade.php" />
+      <jump line="128" column="0" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="9" column="25" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="148" column="69" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="53" column="70" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/InstallmentsController.php" />
+      <jump line="150" column="44" filename="F:/develop/code/laravel-shop-old/database/seeds/DDRProductsSeeder.php" />
+      <jump line="65" column="1" filename="F:/develop/code/laravel-shop-old/resources/sass/app.scss" />
+      <jump line="332" column="0" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/ProductsController.php" />
+      <jump line="322" column="92" filename="F:/develop/code/laravel-shop-old/app/Http/Controllers/ProductsController.php" />
+      <jump line="57" column="30" filename="F:/develop/code/laravel-shop-old/app/Console/Commands/Elasticsearch/Indices/ProjectIndex.php" />
+      <jump line="97" column="73" filename="F:/develop/code/laravel-shop-old/app/Models/Product.php" />
+      <jump line="22" column="32" filename="F:/develop/code/laravel-shop-old/app/Models/Product.php" />
+      <jump line="16" column="37" filename="F:/develop/code/test/calculator1.php" />
+      <jump line="478" column="112" filename="F:/develop/code/blog/vendor/composer/autoload_static.php" />
+      <jump line="4908" column="61" filename="F:/develop/code/blog/vendor/composer/autoload_static.php" />
+      <jump line="0" column="0" filename="F:/develop/code/blog/vendor/composer/autoload_static.php" />
+      <jump line="68" column="9" filename="F:/develop/code/vue/bulid/webpack.config.js" />
+      <jump line="160" column="64" filename="F:/develop/code/shop/config/app.php" />
+      <jump line="159" column="0" filename="F:/develop/code/shop/config/app.php" />
+      <jump line="163" column="0" filename="F:/develop/code/shop/config/app.php" />
+      <jump line="140" column="9" filename="F:/develop/code/shop/config/app.php" />
+      <jump line="19" column="26" filename="F:/develop/code/EndDoc-BackEnd/EndDoc-FrontEnd/package.json" />
+      <jump line="95" column="53" filename="F:/develop/code/blog/app/Admin/Controllers/CategoriesController.php" />
+      <jump line="10" column="17" filename="F:/develop/code/test/reg.php" />
+      <jump line="54" column="15" filename="F:/develop/homestead7.2.1/code/swoole/server.php" />
+      <jump line="2" column="37" filename="F:/develop/homestead7.2.1/code/swoole/server.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL3ZlbmRvci9hdXRvbG9hZC5waHAnOwo=</text>
+      </register>
+      <register name="-" type="4">
+        <text>'</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwsXD4=</text>
+      </register>
+      <register name="0" type="4">
+        <text>)</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">cmVxdWlyZV9vbmNlIF9fRElSX18gLiAnL3ZlbmRvci9hdXRvbG9hZC5waHAnOwo=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">CmNsYXNzIExvZ2dlckZhY3RvcnkgaW1wbGVtZW50cyBMb2dnZXIKewogICAgCn0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CnVzZSB0ZXN0XG9ybVxTdG9yYWdlQWRhcHRlcjsKdXNlIHRlc3Rcb3JtXFVzZXI7CnVzZSB0ZXN0XG9ybVxVc2VyTWFwcGVyOw==</text>
+      </register>
+      <register name="4" type="4">
+        <text>class Server
+{
+
+}</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">Cjw/cGhw</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmludGVyZmFjZQ==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CmNsYXNzIEpvYlBvc3QKewogICAgcHJvdGVjdGVkICR0aXRsZTsKCiAgICBwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3Qoc3RyaW5nICR0aXRsZSkKICAgIHsKICAgICAgICAkdGhpcy0+dGl0bGU7CiAgICB9CgogICAgLyoqCiAgICAgKiBAcmV0dXJuIG1peGVkCiAgICAgKi8KICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUaXRsZSgpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT50aXRsZTsKICAgIH0KfQoKY2xhc3MgSm9iU2Vla2VyCnsKCn0=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Y2xhc3MgTGlvbiBpbXBsZW1lbnRzIEFuaW1hbAo=</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICB7CgogICAgfQ==</text>
+      </register>
+      <register name=":" type="4">
+        <text encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDwsXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwsXD4=</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>title</entry>
+        <entry encoding="base64">XDwsXD4=</entry>
+      </history-search>
+      <history-cmd>
+        <entry>set keep-english-in-normal</entry>
+        <entry>/title</entry>
+        <entry>q</entry>
+        <entry encoding="base64">c2V0IGtlZXAtZW5nbGlzaC1pbi1ub3JtYWwg</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
