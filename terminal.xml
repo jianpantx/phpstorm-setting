@@ -1,6 +1,5 @@
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="F:\Git\bin\bash.exe" />
-    <option name="myTabName" value="git" />
+    <option name="myTabName" value="zsh" />
   </component>
 </application>
