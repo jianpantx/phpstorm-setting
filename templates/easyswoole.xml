@@ -1,0 +1,7 @@
+<templateSet group="easyswoole">
+  <template name="essql" value="var_dump(DbManager::getInstance()-&gt;getLastQuery()-&gt;getLastQuery());" description="打印sql" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
